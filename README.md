@@ -43,3 +43,5 @@ Hinweis: Um Text kopieren zu können klicken Sie auf "Raw" Knopf.
 10. In Tab Reloader select option "Use caching when reloading".
 11. Leave the reloading time at 5 minutes or more to prevent the website from going down.
 
+Credits:
+Developer: Anton Sokolchenko https://ua.linkedin.com/in/sevendays
