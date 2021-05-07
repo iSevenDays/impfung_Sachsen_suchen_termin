@@ -1,4 +1,4 @@
-# Automatische Suche nach Impfstofftermin in Sachsen
+# Automatische Suche nach Impfstoff Termin in Sachsen
 
 # Deutsch:
 ## Firefox
