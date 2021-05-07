@@ -1,5 +1,3 @@
-
-//var searchForText = 'Leipzig';
 var searchForText = 'Annaberg';
 var beepMilliseconds = 3000; // 3 seconds
 
