@@ -21,6 +21,8 @@ Hinweis: Um Text kopieren zu können klicken Sie auf "Raw" Knopf.
 10. In Tab Reloader wählen die Option "Use caching when reloading" aus.
 11. Lassen Sie die "Reloading Time" (Aktualisierungsintervall) bei 5 Minuten oder länger um Überlastung der Website zu verhindern
 
+### Endergebnis
+![Final result](/Screenshot1.png)
 
 # English:
 
@@ -42,6 +44,9 @@ Hinweis: Um Text kopieren zu können klicken Sie auf "Raw" Knopf.
 ```var beepMilliseconds = 5000; // beep for 5 seconds ```
 10. In Tab Reloader select option "Use caching when reloading".
 11. Leave the reloading time at 5 minutes or more to prevent the website from going down.
+
+### Final result
+![Final result](/Screenshot1.png)
 
 # Credits:
 Developer: Anton Sokolchenko https://ua.linkedin.com/in/sevendays
